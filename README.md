@@ -1,1 +1,3 @@
-# DATA620-GROUP
+<u>Group Members</>
+Josh Iden
+Wilson Ng
