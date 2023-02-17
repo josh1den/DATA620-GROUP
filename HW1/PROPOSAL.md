@@ -1,4 +1,4 @@
-### # Idea 1: Social Network: MOOC User Action Dataset
+### Idea 1: Social Network: MOOC User Action Dataset
 
 Source: [https://snap.stanford.edu/data/act-mooc.html](https://snap.stanford.edu/data/act-mooc.html)
 
