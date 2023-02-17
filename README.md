@@ -1,3 +1,3 @@
-<u>Group Members<\u>
+<ins>Group Members</ins>
 Josh Iden
 Wilson Ng
