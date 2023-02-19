@@ -1,6 +1,6 @@
-### DATA620 Spring 2023  
+## DATA620 Spring 2023  
 
-## Team Members  
+### Team Members  
 
 Josh Iden  
 Wilson Ng  
