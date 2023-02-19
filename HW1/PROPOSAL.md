@@ -21,12 +21,12 @@ From dataset documentation:
 
 The dataset contains three files:  
 
-mooc_actions.tsv, 	*Time-ordered sequence of user actions.*  
-mooc_action_features.tsv,  	*Features associated with each action.*  
-mooc_action_labels.tsv, 	*Binary label associated with each action, indicating whether the student drops-out after the action.*  
+**mooc_actions.tsv**, 	*Time-ordered sequence of user actions.*  
+**mooc_action_features.tsv**,  	*Features associated with each action.*  
+**mooc_action_labels.tsv**, 	*Binary label associated with each action, indicating whether the student drops-out after the action.*  
 
+### Load & Analysis Plan  
 
-### Analysis Plan  
+Our analysis will focus on the hypothetical outcome, can degree centrality be used to predict the total number of actions taken before dropping out of the course. 
 
-
-Could centrality measures be used to predict the number of actions students perform before dropping out? 
+The individual data files will be loaded into pandas dataframes and combined into one master edge least containing the categorical feature, and read from pandas into a networkx Graph object. 
