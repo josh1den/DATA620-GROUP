@@ -29,4 +29,4 @@ The dataset contains three files:
 
 Our analysis will focus on the hypothetical outcome, can degree centrality be used to predict the total number of actions taken before dropping out of the course. 
 
-The individual data files will be loaded into pandas dataframes and combined into one master edge least containing the categorical feature, and read from pandas into a networkx Graph object. 
+The individual data files will be loaded into pandas dataframes and combined into one master edge list containing the categorical feature, and read from pandas into a networkx Graph object. 
