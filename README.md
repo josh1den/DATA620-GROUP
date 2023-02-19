@@ -1,3 +1,4 @@
-<ins>Group Members</ins>  
+## Team Members  
+
 Josh Iden  
 Wilson Ng
