@@ -1,3 +1,5 @@
+![](https://github.com/josh1den/DATA620-GROUP/blob/main/HW1/IMG/ASSIGNMENT.png)
+
 ### Idea 1: Social Network: MOOC User Action Dataset
 
 Source: [https://snap.stanford.edu/data/act-mooc.html](https://snap.stanford.edu/data/act-mooc.html)
