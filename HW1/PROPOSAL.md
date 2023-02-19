@@ -1,3 +1,10 @@
+### DATA620 Spring 2023  
+
+## Team Members  
+
+Josh Iden  
+Wilson Ng  
+
 ![](https://github.com/josh1den/DATA620-GROUP/blob/main/HW1/IMG/ASSIGNMENT.png)
 
 ### Idea 1: Social Network: MOOC User Action Dataset
